@@ -16,6 +16,19 @@ Useful shortcuts to boost performance.
 #### Helpful Extension: 
 [Web Search Navigator](https://chrome.google.com/webstore/detail/web-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek): Add keyboard control to search results. 
 
+## Windows 
+
+|Shortcuts    | Use   |
+|---|:---|
+| Alt + Tab   | Move between programs   |
+| Windows key + L   | Lock your screen  |
+| Windows key + ArrowLeft/Right/Up/Down | Split your screen, allows seeing multiple program at the same time |
+
+
+
+
+
+
 
 
 

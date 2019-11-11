@@ -6,8 +6,7 @@ Useful shortcuts to boost performance.
 |---|:---|
 | Ctr + T   | Open new tab   |
 | Ctr + W   | Close current tab  |
-| Ctr + PageDown   | Move to tab to the left  |
-| Ctr + PageUp   | Move to tab to the right  |
+| Ctr + PageDown/PageUp   | Move to tab to the left/ right  |
 | Ctr + L   | Go to Address bar  |
 | Alt + LeftArrow   | Go back to previous page  |
 | PageDown/ PageUp  | Scrool down/ Up  |

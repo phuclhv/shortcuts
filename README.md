@@ -15,6 +15,7 @@ Useful shortcuts to boost performance.
 
 #### Helpful Extension: 
 [Web Search Navigator](https://chrome.google.com/webstore/detail/web-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek): Add keyboard control to search results. 
+[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en): Make your browser behave like Vim! 
 
 ## Windows 
 
